@@ -1,6 +1,6 @@
 # BarcodeQRcodeReader
 
-![device-2017-06-16-163639](https://user-images.githubusercontent.com/19555981/27233990-b5b75906-52bb-11e7-8741-a84b7b39b65a.png)
+![github](https://user-images.githubusercontent.com/19555981/27234423-48dcf5be-52bd-11e7-9d01-29755c65a645.png)
 
 android app that reads Barcode and QRcode
 <br/>app is based on Zxing library
